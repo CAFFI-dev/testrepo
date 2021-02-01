@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "RijndaelManaged",
+    "mongoDB": "mongodb+srv://caffi-dev:REduxCAFFI1@cluster0.0mdqw.mongodb.net/up?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
